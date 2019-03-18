@@ -1,4 +1,4 @@
-# Workout
+# Cviceni UT+CT
 ---
 ## 1. Rozehrati
 * 30x kliky
