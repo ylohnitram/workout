@@ -14,13 +14,13 @@
 * 10x shyby
 * 10x drepy s vyskokem
 * 30x kliky
-* 10x kolecko
+* 30x lehy-sedy s plnou rotaci
 
 ### II. okruh (3 serie)
 * 10x shyby
 * 2x 5x one leg deadlift
 * 10x ruce vzadu, gauc
-* 30x lehy-sedy s plnou rotaci
+* 10x kolecko
 
 ### III. okruh (3 serie)
 * 10x shyby
