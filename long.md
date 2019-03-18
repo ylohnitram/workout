@@ -32,6 +32,7 @@
 * 20x tan sau
 * 20x gan sau
 * 20x pak sau
+* 20x kop kolenem
 ### II. Technika rukou (3 serie; zatez cinkami 10 kg)
 * 20x direkt
 * 20x zvedak
