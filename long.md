@@ -14,7 +14,7 @@
 * 10x shyby
 * 10x drepy s vyskokem
 * 30x kliky
-* 30x lehy-sedy s rotaci
+* 10x kolecko
 
 ### II. okruh (3 serie)
 * 10x shyby
