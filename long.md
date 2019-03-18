@@ -1,4 +1,4 @@
-# Workout
+# Cviceni PO+ST
 ---
 ## 1. Rozehrati
 * 30x kliky
@@ -32,12 +32,12 @@
 * 20x tan sau
 * 20x gan sau
 * 20x pak sau
-### II. Cinky (3 serie; 10 kg)
+### II. Technika rukou (3 serie; zatez cinkami 10 kg)
 * 20x direkt
 * 20x zvedak
 * 20x hak
 * 20x back-fist
-### III. Pohyb nohou (3 serie)
+### III. Technika nohou (3 serie)
 * 20x kryti
 * 20x nerozhodny krok
 * 20x koleno-kop
