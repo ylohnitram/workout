@@ -9,9 +9,7 @@
 * 30 min svihadlo
 ## 3. Protazeni
 * lytka
-* ramena
-* ruce
-* trup
+* Siu Nim Tao
 ## 4. Fight
 ### I. Bob (3 serie)
 * 20x tan sau
