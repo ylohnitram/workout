@@ -4,6 +4,7 @@
 * 30x kliky
 * 10x drepy
 * 20 s beh+box
+* 36x shaolin punch
 ## 2. Kardio
 * 10 km rotoped
 * 30 min svihadlo
