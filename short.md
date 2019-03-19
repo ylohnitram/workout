@@ -16,11 +16,11 @@
 * 20x tan sau
 * 20x gan sau
 * 20x pak sau
-* 20x kop kolenem
+* 20x koleno
 ### II. Technika nohou (3 serie)
 * 20x kryti
 * 20x nerozhodny krok
-* 20x koleno-kop s otacenim s otacenim o 180 stupnu
+* 20x koleno-kop s otacenim o 180 stupnu
 ## 5. Bolest
 * 100x dlan
 * 200x pest
