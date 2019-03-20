@@ -6,6 +6,8 @@
 * 20 s beh+box
 * 36x shaolin punch
 ## 2. Protazeni
+* komplet telo
+* Siu Nim Tao
 ## 3. Kardio
 * 10 km rotoped
 * 30 min svihadlo
