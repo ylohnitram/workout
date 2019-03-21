@@ -7,7 +7,7 @@
 * 36x shaolin punch
 ## 2. Formy
 * Siu Nim Tao
-* ??? (coming soon)
+* Chum Kiu (coming soon)
 ## 3. Fight
 ### I. Bob
 * 20x tan sau
