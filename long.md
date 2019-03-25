@@ -11,6 +11,7 @@
 ## 3. Kardio
 * 10 km rotoped
 * 30 min svihadlo
+* 5 min silove svihadlo
 ## 4. Posilovani
 ### I. okruh (3 serie)
 * 10x shyby
