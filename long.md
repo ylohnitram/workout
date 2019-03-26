@@ -41,7 +41,7 @@
 * 20x zvedak
 * 20x hak
 * 20x back-fist
-### III. Technika nohou (3 serie)
+### III. Technika nohou
 * 20x kryti
 * 20x nerozhodny krok
 * 20x koleno-kop s otacenim o 180 stupnu
