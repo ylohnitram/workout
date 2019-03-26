@@ -13,7 +13,6 @@
 * Siu Nim Tao
 ## 4. Bolest
 * 1000x retezove udery
-* 200x stop-kick
 * 10x medicimbal
 * 100x dlan - kyblik
 * 200x pest - kyblik
