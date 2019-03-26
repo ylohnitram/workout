@@ -11,17 +11,9 @@
 ## 3. Protazeni
 * lytka
 * Siu Nim Tao
-## 4. Fight
-### I. Bob
-* 20x tan sau
-* 20x gan sau
-* 20x pak sau
-* 20x koleno
-### II. Technika nohou
-* 20x kryti
-* 20x nerozhodny krok
-* 20x koleno-kop s otacenim o 180 stupnu
-## 5. Bolest
+## 4. Bolest
 * 1000x retezove udery
 * 200x stop-kick
 * 10x medicimbal
+* 100x dlan - kyblik
+* 200x pest - kyblik
