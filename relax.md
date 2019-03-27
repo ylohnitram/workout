@@ -9,7 +9,7 @@
 * Siu Nim Tao
 * [Chum Kiu (coming soon)](https://www.youtube.com/watch?v=HwVTdukbUnQ)
 ## 3. Fight
-### I. Bob
+### I. Bob (3 serie)
 * 20x tan sau
 * 20x gan sau
 * 20x pak sau
