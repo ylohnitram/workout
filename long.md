@@ -24,7 +24,7 @@
 * 2x 5x one leg deadlift
 * 10x ruce vzadu, gauc
 * 10x kolecko
-* 30x nohy nahoru (spodni bricho)
+* 30x nuzky
 
 ## 5. Fight
 ### I. Technika rukou (3 serie; zatez cinkami 10 kg)
