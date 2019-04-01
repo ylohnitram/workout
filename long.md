@@ -19,7 +19,7 @@
 * 30x lehy-sedy s plnou rotaci
 * 30x nohy nahoru (spodni bricho)
 
-### II. okruh (4 serie)
+### II. okruh (3 serie)
 * 10x shyby
 * 2x 5x one leg deadlift
 * 10x ruce vzadu, gauc
