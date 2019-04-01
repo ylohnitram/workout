@@ -5,16 +5,16 @@
 * 10x drepy
 * 20 s beh+box
 * 36x shaolin punch
-## 2. Protazeni
-* komplet telo
-* Siu Nim Tao
-## 3. Kardio
+## 2. Kardio
 * 10 km rotoped
 * 30 min svihadlo
+## 3. Protazeni
+* komplet telo
+* Siu Nim Tao
 ## 4. Posilovani
 ### I. okruh (4 serie)
 * 10x shyby
-* 10x drepy s vyskokem
+* 10x drepy
 * 30x kliky
 * 30x lehy-sedy s plnou rotaci
 * 30x nohy nahoru (spodni bricho)
