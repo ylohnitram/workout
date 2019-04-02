@@ -14,5 +14,3 @@
 ## 4. Bolest
 * 1000x retezove udery
 * 10x medicimbal
-* 100x dlan - kyblik
-* 200x pest - kyblik
