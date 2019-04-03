@@ -11,6 +11,7 @@
 ## 3. Protazeni
 * lytka
 * Siu Nim Tao
+* Chum Kiu
 ## 4. Bolest
 * 1000x retezove udery
 * 10x medicimbal
