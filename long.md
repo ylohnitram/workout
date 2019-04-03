@@ -11,6 +11,7 @@
 ## 3. Protazeni
 * komplet telo
 * Siu Nim Tao
+* Chum Kiu
 ## 4. Posilovani
 ### I. okruh (4 serie)
 * 10x shyby
