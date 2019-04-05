@@ -11,7 +11,7 @@
 ## 3. Protazeni
 * komplet telo
 * Siu Nim Tao
-* Chum Kiu
+* [Chum Kiu](https://www.youtube.com/watch?v=HwVTdukbUnQ)
 ## 4. Posilovani
 ### I. okruh (4 serie)
 * 10x shyby
