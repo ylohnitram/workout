@@ -7,7 +7,7 @@
 * 36x shaolin punch
 ## 2. Formy
 * Siu Nim Tao
-* [Chum Kiu (coming soon)](https://www.youtube.com/watch?v=HwVTdukbUnQ)
+* [Chum Kiu](https://www.youtube.com/watch?v=HwVTdukbUnQ)
 ## 3. Fight
 ### I. Bob (3 serie)
 * 20x tan sau
