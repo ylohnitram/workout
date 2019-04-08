@@ -22,7 +22,7 @@
 
 ### II. okruh (3 serie)
 * 10x shyby
-* 2x 5x one leg deadlift
+* 2x 5x one leg deadlift (20 kg kettlebell)
 * 10x ruce vzadu, gauc
 * 10x kolecko
 * 30x nuzky
