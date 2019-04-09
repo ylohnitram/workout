@@ -19,7 +19,7 @@
 * 20x nerozhodny krok
 * 20x koleno-kop s otacenim o 180 stupnu
 ## 4. Posilovani
-### I. okruh (core program; 4 serie)
+### I. okruh ([core program](https://www.youtube.com/watch?v=O3uA5pr9H94); 4 serie)
 * 2x 15x Planks knees to elbow
 * 20x Lying leg raises
 * 2x 15x Side plank up & down
