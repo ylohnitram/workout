@@ -18,7 +18,7 @@
 * 10x drepy
 * 30x kliky
 * 30x lehy-sedy s plnou rotaci
-* 30x nohy nahoru (spodni bricho)
+* 30x nohy nahoru (zada)
 
 ### II. okruh (3 serie)
 * 10x shyby
