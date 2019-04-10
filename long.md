@@ -34,7 +34,7 @@
 * 2x 10x Star crunches
 * 2x 15x Side plank reach throughs
 * 20x Crucifix
-* 12x Chair sit ups
+* 2x 12x Chair sit ups
 
 ## 5. Fight
 ### I. Technika rukou (3 serie; zatez cinkami 10 kg)
