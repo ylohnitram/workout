@@ -1,5 +1,5 @@
 # Morning
-## cardio
+## Cardio
 * 5 minutes jumping rope
 * 1 minute maximum at level 16
 * 5 minutes jumping rope
@@ -8,7 +8,7 @@
 * 1 minute maximum at level 10
 
 # Evening
-## Wing Chun (18:30 - 21:00) or kickboxing (18:30 - 20:30)
+## Wing Chun (18:30 - 21:00) or Kickboxing (18:30 - 20:30)
 ## Dynamic stretching
 * lower body
 
@@ -23,6 +23,10 @@
 * pull-ups (5 sets):
   - under-grip (10 reps.)
   - over-grip - to failure
+  
+## Fighting
+* kick higher routine (https://www.youtube.com/watch?v=jNO61Nh-N7I)
+* bouncing
   
 ## Static stretching
 * upper body
