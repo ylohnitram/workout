@@ -21,8 +21,8 @@
 ### Back
 * deadlift (4 sets, 20 reps.; 4 sets, 8 reps.)
 * pull-ups (5 sets):
-  ** under-grip (10 resp.)
-  ** over-grip - to failure
+  - under-grip (10 reps.)
+  - over-grip - to failure
   
 ## Static stretching
 * upper body
