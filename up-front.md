@@ -29,8 +29,7 @@
 
 #### Triceps (4 sets, 20 reps.; 4 sets, 8 reps.)
 * bench
-* behind head single arm
-* behind head double arm
+* behind back single arm
 
 #### Forearm (4 sets, 20 reps.; 4 sets, 8 reps.; palm pushes 100 reps.)
 * double arm
