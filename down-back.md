@@ -29,7 +29,7 @@
 * bouncing
   
 ## Static stretching
-* upper body
+* lower body
 
 ## Pain
 - 10x medicimbal to belly
