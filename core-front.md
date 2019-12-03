@@ -1,3 +1,8 @@
+# Morning
+## Combined stretching
+* legs
+
+# Evening
 ## Dynamic stretching
 * upper body
 
