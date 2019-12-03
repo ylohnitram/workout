@@ -24,10 +24,6 @@
   - under-grip (10 reps.)
   - over-grip - to failure
   
-## Fighting
-* kick higher routine (https://www.youtube.com/watch?v=jNO61Nh-N7I)
-* bouncing
-  
 ## Static stretching
 * lower body
 
