@@ -14,6 +14,13 @@
 
 ## Muscle strength
 ### Hands
+#### Forearm (4 sets, 20 reps.; 4 sets, 8 reps.; palm pushes 100 reps.)
+* double arm
+* single arm wrist left-right
+* single arm wrist front-back
+* single arm 
+* palm pushes
+
 #### Biceps (4 sets, 20 reps.; 4 sets, 8 reps.)
 * single arm
 * double arm
@@ -21,13 +28,6 @@
 #### Triceps (4 sets, 20 reps.; 4 sets, 8 reps.)
 * bench
 * behind back single arm
-
-#### Forearm (4 sets, 20 reps.; 4 sets, 8 reps.; palm pushes 100 reps.)
-* double arm
-* single arm wrist left-right
-* single arm wrist front-back
-* single arm 
-* palm pushes
 
 ## Static stretching
 * upper body
