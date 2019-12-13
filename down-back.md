@@ -19,7 +19,7 @@
 * hoose-tops (5 sets, 50 reps.)
 
 ### Back
-* deadlift (4 sets, 20 reps.; 4 sets, 8 reps.)
+* deadlift (1 sets, 20 reps. - if after RDL, otherwise 4 sets; 4 sets, 8 reps.)
 * pull-ups (5 sets):
   - under-grip (10 reps.)
   - over-grip - to failure
