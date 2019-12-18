@@ -1,14 +1,4 @@
 # Morning
-## cardio
-* 5 minutes jumping rope
-* 1 minute maximum at level 16
-* 5 minutes jumping rope
-* 1 minute maximum at level 13
-* 5 minutes jumping rope
-* 1 minute maximum at level 10
-
-# Evening
-## Wing Chun (18:30 - 21:00) or Kickboxing (18:30 - 20:30)
 ## Dynamic stretching
 * upper body
 
@@ -34,3 +24,17 @@
 
 ## Pain
 - 10x medicimbal to belly
+
+# Evening
+## Wing Chun (18:30 - 21:00) or Kickboxing (18:30 - 20:30)
+
+## cardio
+* 1 min. training bike 16 max
+* 1 min. jump rope or 1 min. throw medicine ball
+* 1 min. training bike 13 max
+* 1 min. jump rope or 1 min. throw medicine ball
+* 1 min. training bike 10 max
+* 1 min. jump rope or 1 min. throw medicine ball
+* 1 min. training bike 13 max
+* 1 min. jump rope or 1 min. throw medicine ball
+* 1 min. training bike 16 max
