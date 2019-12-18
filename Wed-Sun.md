@@ -24,4 +24,4 @@
 - 10x medicimbal to belly
 
 # Evening
-Kick-boxing (Wed, 18:30 - 20:30) or Acrobatics (Sun, 19:00 - 20:00)
+## Kickboxing (Wed, 18:30 - 20:30) or Acrobatics (Sun, 19:00 - 20:00)
