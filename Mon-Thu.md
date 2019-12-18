@@ -26,7 +26,7 @@
 - 10x medicimbal to belly
 
 # Evening
-## Wing Chun (18:30 - 21:00) or Kickboxing (18:30 - 20:30)
+## Kickboxing (Mon, 18:30 - 20:30) or Wing Chun (Thu, 18:30 - 21:00) 
 
 ## cardio
 * 1 min. training bike 16 max
