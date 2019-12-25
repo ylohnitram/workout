@@ -12,8 +12,9 @@
 * palm pushes
 
 #### Triceps (4 sets, 20 reps.; 4 sets, 8 reps.)
-* bench
+* dip
 * behind back single arm
+* french press
 
 #### Biceps (4 sets, 20 reps.; 4 sets, 8 reps.)
 * single arm
