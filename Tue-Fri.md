@@ -12,7 +12,8 @@
 * deadlift (1 sets, 20 reps. - if after RDL, otherwise 4 sets; 4 sets, 8 reps.)
 * pull-ups (5 sets):
   - under-grip (10 reps.)
-  - over-grip - to failure
+  - over-grip  (5 reps.)
+* push-ups - back hands position (hands 20 cm in front or in back) (4 sets, 12 reps.)
   
 ## Static stretching
 * lower body
