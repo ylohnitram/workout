@@ -12,10 +12,10 @@
 * V's
 * 2x one arm touch the sky
 
-### Breast (4 sets, 20 reps.; 4 sets, 8 reps.; push-ups 30 reps.)
+### Breast (4 sets, 20 reps.; 4 sets, 8 reps.)
 * single hand
 * double hand (benchpress)
-* push-ups
+* push-ups - breast hands position (wide, middle) (4 sets, 15 reps.)
 
 ## Static stretching
 * upper body
