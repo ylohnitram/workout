@@ -15,6 +15,7 @@
 * dip
 * behind back single arm
 * french press
+* push-ups - triceps hands position (hands next to body, middle) (4 sets, 12 reps.)
 
 #### Biceps (4 sets, 20 reps.; 4 sets, 8 reps.)
 * single arm
