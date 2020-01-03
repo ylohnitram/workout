@@ -13,7 +13,7 @@
 * pull-ups (5 sets):
   - under-grip (10 reps.)
   - over-grip  (5 reps.)
-* push-ups - back hands position (hands 20 cm in front or in back) (4 sets, 12 reps.)
+* push-ups - back hands position (hands 20 cm in front or in back) (4 sets, 15 reps.)
   
 ## Static stretching
 * lower body
