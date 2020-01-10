@@ -4,8 +4,8 @@
 
 ## Muscle strength
 ### Legs
-* squats (4 sets, 10 reps.; 4 sets, 5-8 reps.)
-* romanian deadlift (4 sets, 20 reps.; 4 sets, 8 reps.)
+* squats (4 sets, 20 reps.; 4 sets, 10 reps.)
+* romanian deadlift (4 sets, 10 reps.; 4 sets, 5-8 reps.)
 * hoose-tops (5 sets, 50 reps.)
 
 ### Back
