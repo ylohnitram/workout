@@ -4,12 +4,12 @@
 
 ## Muscle strength
 ### Legs
-* squats (4 sets, 20 reps.; 4 sets, 8 reps.)
+* squats (4 sets, 10 reps.; 4 sets, 5-8 reps.)
 * romanian deadlift (4 sets, 20 reps.; 4 sets, 8 reps.)
 * hoose-tops (5 sets, 50 reps.)
 
 ### Back
-* deadlift (1 sets, 10 reps. - if after RDL, otherwise 4 sets; 4 sets, 8 reps.)
+* deadlift (1 sets, 10 reps. - if after RDL, otherwise 4 sets; 4 sets, 5-8 reps.)
 * pull-ups (5 sets):
   - under-grip (10 reps.)
   - over-grip  (5 reps.)
