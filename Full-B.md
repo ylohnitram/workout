@@ -10,6 +10,7 @@
 * Barbell OHP (3s 5r)
 * Barbell rows (4s 10r)
 * Palm pushes (4s 200r)
+* Push-ups (4s 15r)
 
 ## Static stretching
 * full body
