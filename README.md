@@ -1,8 +1,8 @@
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---|:---|:---|:---|:---|:---|:---|
-| Dynamic stretching | N/A | Dynamic stretching | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
-| 10 min. jumping rope | N/A |10 min. jumping rope |10 min. jumping rope |10 min. jumping rope | **REST mode** | 10 min. jumping rope |
+| Dynamic stretching | *N/A* | Dynamic stretching | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
+| 10 min. jumping rope | *N/A* |10 min. jumping rope |10 min. jumping rope |10 min. jumping rope | **REST mode** | 10 min. jumping rope |
 | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | **REST mode** | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | **REST mode** | Static stretching |
 | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [CT B](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | **REST mode** | **REST mode** |
