@@ -13,6 +13,6 @@
 * [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md)
 
 # Cardio workout programs
-* [CT A](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
-* [CT B](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
-* [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
+* [CT A](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) (spring/summer)
+* [CT B](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) (spring/summer)
+* [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) (fall/winter)
