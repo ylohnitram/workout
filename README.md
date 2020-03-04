@@ -1,6 +1,7 @@
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---|:---|:---|:---|:---|:---|:---|
+| Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening |
 | Dynamic stretching | *N/A* | Dynamic stretching | *N/A* | Dynamic stretching | **REST mode** | Dynamic stretching |
 | 10 min. jumping rope | *N/A* | 10 min. jumping rope | *N/A* | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
 | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | **REST mode** | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) |
