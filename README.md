@@ -2,12 +2,12 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---|:---|:---|:---|:---|:---|:---|
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening |
-| Dynamic stretching | *N/A* | Dynamic stretching | *N/A* | Dynamic stretching | **REST mode** | Dynamic stretching |
-| 10 min. jumping rope | *N/A* | 10 min. jumping rope | *N/A* | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
-| [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | **REST mode** | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) |
+| Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
+| 10 min. jumping rope | 10 min. jumping rope | 10 min. jumping rope | 10 min. jumping rope | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
+| [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | **REST mode** | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) |
 | Static stretching | *N/A* | Static stretching | *N/A* | Static stretching | **REST mode** | Static stretching |
-| [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | **REST mode** | **REST mode** |
-| [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Badminton](http://www.ruzova5.cz/cs/badminton/) (19:00 - 20:00) | **REST mode** | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) |
+| Muay Thai stretching/warmup + techniques (1.5 hour) | Wing Chun stretching/warmup + techniques (1.5 hour) | Muay Thai stretching/warmup + techniques (1.5 hour) | Wing Chun stretching/warmup + techniques (1.5 hour) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | **REST mode** | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) |
+| [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | BJJ warmup/stretching (30 minutes) + watch basic stuff on video (30+ min.) | **REST mode** | BJJ warmup/stretching (30 minutes) + watch basic stuff on video (30+ min.) |
 
 # Strength workout programs
 * [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md)
