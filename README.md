@@ -15,6 +15,4 @@
 * [ST B](https://github.com/mobsikx/workout/blob/coronavirus/Full-B.md)
 
 # Cardio workout programs
-* [CT A](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) (spring/summer)
-* [CT B](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) (spring/summer)
-* [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) (fall/winter)
+* [CT](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
