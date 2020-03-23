@@ -5,16 +5,16 @@
 | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening |
 | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
 | 10 min. jumping rope | 10 min. jumping rope | **REST mode** | 10 min. jumping rope | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
-| [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | **REST mode** | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md) | **REST mode** | [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md) |
+| [ST A](https://github.com/mobsikx/workout/blob/coronavirus/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/coronavirus/Full-B.md) | **REST mode** | [ST A](https://github.com/mobsikx/workout/blob/coronavirus/Full-A.md) | [ST B](https://github.com/mobsikx/workout/blob/coronavirus/Full-B.md) | **REST mode** | [ST A](https://github.com/mobsikx/workout/blob/coronavirus/Full-A.md) |
 | Static stretching | Static stretching | **REST mode** | Static stretching | Static stretching | **REST mode** | Static stretching |
-| Muay Thai stretching/warmup + techniques (1.5 hour) | Wing Chun stretching/warmup + techniques (1.5 hour) | Muay Thai stretching/warmup + techniques (1.5 hour) | Wing Chun stretching/warmup + techniques (1.5 hour) | BJJ warmup/stretching (30 minutes) + watch basic stuff on video (30+ min.) | **REST mode** | BJJ warmup/stretching (30 minutes) + watch basic stuff on video (30+ min.) |
-| [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | **REST mode** | [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) |
+| [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | **REST mode** | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | 
+| [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | **REST mode** | [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 
 # Strength workout programs
-* [ST A](https://github.com/mobsikx/workout/blob/master/Full-A.md)
-* [ST B](https://github.com/mobsikx/workout/blob/master/Full-B.md)
+* [ST A](https://github.com/mobsikx/workout/blob/coronavirus/Full-A.md)
+* [ST B](https://github.com/mobsikx/workout/blob/coronavirus/Full-B.md)
 
 # Cardio workout programs
-* [CT A](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) (spring/summer)
-* [CT B](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) (spring/summer)
-* [CT C](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) (fall/winter)
+* [CT A](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) (spring/summer)
+* [CT B](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) (spring/summer)
+* [CT C](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) (fall/winter)
