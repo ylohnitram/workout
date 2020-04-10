@@ -16,5 +16,8 @@
 * [ST A](https://github.com/mobsikx/workout/blob/coronavirus/Full-A.md)
 * [ST B](https://github.com/mobsikx/workout/blob/coronavirus/Full-B.md)
 
+# Core workout programs
+* [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md)
+
 # Cardio workout programs
 * [CT](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
