@@ -1,8 +1,8 @@
-# Core training (5 rounds, 15 - 30 s each exercise, 3 min. rest)
+# Core training (3 rounds, 15 - 30 s each exercise, 3 min. rest)
 * hollow hold - do ucka, ruce nahoru, nohy nahoru, spodni zada se dotykaji zeme, drzet pevne bricho
 * v-sit - podobne jako 1, ale spodni zada se nedotykaji zeme
 * unilateral loaded v-sit - stejne jako 2, ale prendavam z ruky do ruky medicimbal
-* dead bug - aka lezici chodec, ruka noha nastridacku
+* dead bug x2 (pro kazdou stranu) - aka lezici chodec, ruka noha nastridacku
 * leg lift hold - jako 1, ale nad zemi jsou pouze nohy, dlane se dotykaji zeme
 * elbow plank
 * bulldog - jako Strbakovo lezeni s kolenama nad zemi, ale nikam nelezu
