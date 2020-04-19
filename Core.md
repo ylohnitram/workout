@@ -1,4 +1,4 @@
-# Core training (5 rounds, 30s each exercise, 3 min. rest)
+# Core training (5 rounds, 15 - 30s each exercise, 3 min. rest)
 * hollow hold - do ucka, ruce nahoru, nohy nahoru, spodni zada se dotykaji zeme, drzet pevne bricho
 * v-sit - podobne jako 1, ale spodni zada se nedotykaji zeme
 * unilateral loaded v-sit - stejne jako 2, ale prendavam z ruky do ruky medicimbal
