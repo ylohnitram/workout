@@ -10,7 +10,7 @@
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | Static stretching |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | *REST mode* | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | 
-| [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
+| [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 
 # Strength workout programs
 * [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md)
@@ -21,4 +21,4 @@
 # Cardio workout programs
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
-* [CT - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
+* [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
