@@ -3,9 +3,9 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | morning | morning | morning | morning | morning | morning | morning |
-| Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening |
-| Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
-| 10 min. jumping rope | 10 min. jumping rope | **REST mode** | 10 min. jumping rope | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
+| Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | **REST mode** | Cold water hardening |
+| Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | **REST mode** | Dynamic stretching |
+| 10 min. jumping rope | **REST mode** | 10 min. jumping rope | **REST mode** | 10 min. jumping rope | **REST mode** | 10 min. jumping rope |
 | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | **REST mode** | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | **REST mode** | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | **REST mode** | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) |
 | Static stretching | **REST mode** | Static stretching | **REST mode** | Static stretching | **REST mode** | Static stretching |
 | evening | evening | evening | evening | evening | evening | evening |
