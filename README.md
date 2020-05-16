@@ -22,3 +22,6 @@
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md)
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md)
+
+# Measurements
+* [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
