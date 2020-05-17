@@ -1,5 +1,3 @@
-
-
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
@@ -9,7 +7,7 @@
 | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Endurance.md) | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Explosive.md) | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | *REST mode* | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) |
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | Static stretching |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | [Wing Chun home](https://github.com/mobsikx/workout/blob/coronavirus/Wing-chun-home.md) | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | *REST mode* | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | 
+| [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | Wing Chun *(18:30 - 21:00)* | [Muay-thai home](https://github.com/mobsikx/workout/blob/coronavirus/Muay-thai-home.md) | Wing Chun *(18:30 - 21:00)* | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | *REST mode* | [BJJ home](https://github.com/mobsikx/workout/blob/coronavirus/BJJ-home.md) | 
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) |
 
 # Strength workout programs
