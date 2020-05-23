@@ -1,10 +1,5 @@
-# Bull body
-* Barbell squats (3x10, 50 kg)
-* Barbell deadlifts (1x5, 110 kg; 2x3, 120 kg; 1x1, 130 kg)
-* Barbell hip thrusts (4x10, 70 kg)
-* Barbell rows (3x5, 70 kg)
-* Barbell OHP (3x5, 40 kg)
-* Barbell bench press (4x6, 70 kg)
-* Roll forearm (4x10, 10 kg)
-* Palm pushes (3x200)
-* Triceps Push-ups (4x15)
+# Full body
+* Barbell squats (5x5, 50 kg)
+* Barbell deadlifts (1x5, 110 kg; 2x3, 120 kg; 1x1, 130 kg; 1xtry, 140 kg)
+* Barbell bench press (5x5, 80 kg)
+* Triceps Push-ups (5x15)
