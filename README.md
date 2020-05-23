@@ -4,7 +4,7 @@
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | Cold water hardening |
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | Dynamic stretching |
 | 10 min. jumping rope | *-* | 10 min. jumping rope | *-* | 10 min. jumping rope | *REST mode* | 10 min. jumping rope |
-| [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | BJJ | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | BJJ | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | *REST mode* | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) |
+| [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/coronavirus/FullBody.md) | *REST mode* | [CORE](https://github.com/mobsikx/workout/blob/coronavirus/Core.md) |
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | Static stretching |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Cardio - Light](https://github.com/mobsikx/workout/blob/coronavirus/Cardio-Light.md) | **REST mode** | **REST mode** |
