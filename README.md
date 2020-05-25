@@ -8,7 +8,7 @@
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
-| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Badminton](http://www.ruzova5.cz/cs/badminton/) (19:00 - 20:00) | *REST mode* | *REST mode* |
+| [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [Badminton](http://www.ruzova5.cz/cs/badminton/) (19:00 - 20:00) | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [FullBody](https://github.com/mobsikx/workout/blob/master/FullBody.md)
