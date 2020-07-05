@@ -1,0 +1,6 @@
+# Upper body (B)
+* Biceps barbell (2x8, 20 kg; 3x6, 30 kg)
+* Biceps dumbbells (2x8, 10 kg, 3x6, 20 kg)
+* Triceps push-ups (5x15)
+* Forearm rolls (2x8, 10 kg; 3x6, 20 kg)
+* Palm pushes (3x200)
