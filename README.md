@@ -14,8 +14,10 @@
 ## Active
 * [UpperBody A](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyA.md)
 * [UpperBody B](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyB.md)
-* [LowerBody](https://github.com/mobsikx/workout/blob/master/Strength-LowerBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
+
+## Inactive
+* [LowerBody](https://github.com/mobsikx/workout/blob/master/Strength-LowerBody.md)
 
 # Core workout programs
 ## Inactive
@@ -24,8 +26,10 @@
 # Cardio workout programs
 ## Active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
-* [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
+
+## Inactive
+* [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
 
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
