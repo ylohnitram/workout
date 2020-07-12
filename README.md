@@ -3,9 +3,9 @@
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |  **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
-| 10 min. jumping rope | *-* | 10 min. jumping rope | *-* | 10 min. jumping rope | *REST mode* | *-* |
+| 10 min. jumping rope | *-* | 10 min. jumping rope | *-* | 10 min. jumping rope | *REST mode* | *REST mode* |
 | [UpperBody A](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyA.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [LowerBody](https://github.com/mobsikx/workout/blob/master/Strength-LowerBody.md) | [BJJ](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
-| Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *-* |
+| Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [MMA](https://www.lannagym.cz/rozvrh/) (18:00 - 19:00) :: test | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [Wing Chun](https://www.wingchunpraha.cz) (18:30 - 21:00) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *REST mode* | *REST mode* |
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [UpperBody B](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyB.md) | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *REST mode* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
