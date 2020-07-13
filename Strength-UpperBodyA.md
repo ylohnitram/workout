@@ -3,4 +3,4 @@
 * Overhead press (2x8, 30 kg; 3x4, 40 kg)
 * Barbell rows (2x8, 50 kg; 3x6, 70 kg)
 * Pull-ups (5x15)
-* Barbell bench press (2x8, 50 kg; 3x6, 70 kg)
+* Barbell bench press (2x8, 50 kg; 3x6, 60 kg)
