@@ -1,5 +1,5 @@
 ### strength workout
-##tue + thu
+## tue + thu
 - shoulders
 - biceps
 - ohp
