@@ -1,4 +1,4 @@
-## Upper body
+## Shoulders, biceps, forearm
 * Lateral raise (5x10, 10 kg)
 * Bent over reverse [https://www.youtube.com/watch?v=QvKvJXyvato 03:00] (5x8, 10 kg)
 * Reverse dumbbell fly [https://www.youtube.com/watch?v=QvKvJXyvato 05:00] (5x10, 10 kg)
