@@ -10,12 +10,11 @@
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *-* | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *-* | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *REST mode* | *REST mode* |
-| *-* | [UpperBody A](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyA.md) | *-* | [UpperBody B](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyB.md) | *-* | *REST mode* | *REST mode* |
+| *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 ## Active
-* [UpperBody A](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyA.md)
-* [UpperBody B](https://github.com/mobsikx/workout/blob/master/Strength-UpperBodyB.md)
+* [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
 
 ## Inactive
