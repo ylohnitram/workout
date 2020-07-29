@@ -1,6 +1,0 @@
-# Upper body (A)
-* Latteral raises (2x8, 10 kg; 3x3, 20 kg)
-* Overhead press (2x8, 30 kg; 3x4, 40 kg)
-* Barbell rows (2x8, 50 kg; 3x6, 70 kg)
-* Pull-ups (5x15)
-* Barbell bench press (2x8, 50 kg; 3x6, 60 kg)
