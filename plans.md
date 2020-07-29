@@ -3,3 +3,7 @@
 - shoulders
 - biceps
 - ohp
+
+#### game plan
+- lateral raise
+- 
