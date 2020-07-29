@@ -13,12 +13,8 @@
 | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
-## Active
 * [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
-
-## Inactive
-* [LowerBody](https://github.com/mobsikx/workout/blob/master/Strength-LowerBody.md)
 
 # Core workout programs
 ## Inactive
