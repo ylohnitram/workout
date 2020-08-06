@@ -1,6 +1,6 @@
 ## Shoulders, biceps, forearm
 * Lateral raise (5x10, 10 kg)
-* Bent over reverse [https://www.youtube.com/watch?v=QvKvJXyvato 03:00] (5x8, 10 kg)
+* Bent over reverse [https://www.youtube.com/watch?v=QvKvJXyvato 03:00] (5x10, 10 kg)
 * Reverse dumbbell fly [https://www.youtube.com/watch?v=QvKvJXyvato 05:00] (5x10, 10 kg)
 * Leaning lateral raise [https://www.youtube.com/watch?v=QvKvJXyvato 06:09] (2x10, 10kg; 3x6 20 kg)
 * Overhead press (2x6, 40 kg; 3x3, 50 kg)
