@@ -9,8 +9,8 @@
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *-* | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *-* | *-* | *REST mode* | *REST mode* |
-| [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *starting 15.9.* - [BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *starting 15.9.* - [BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) | *-* | *REST mode* | *REST mode* |
+| [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
+| *-* | *starting 15.9.* - [BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) | *-* | *starting 15.9.* - [BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
