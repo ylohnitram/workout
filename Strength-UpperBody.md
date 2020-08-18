@@ -6,5 +6,5 @@
 * Overhead press (2x6, 40 kg; 3x3, 50 kg)
 * Biceps barbell (2x8, 20 kg; 3x6, 30 kg)
 * Biceps dumbbells (2x8, 10 kg; 3x6, 20 kg)
-* Forearm rolls (2x8, 10 kg; 3x6, 20 kg)
+* Forearm rolls (2x10, 10 kg; 3x6, 20 kg)
 * Palm pushes (3x200)
