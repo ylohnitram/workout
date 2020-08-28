@@ -8,5 +8,5 @@
 ## Last training in week
 * Barbell squats (5x10, 60 kg)
 * Barbell deadlifts (2x1, 120 kg; 2x1, 130 kg; 3x1, 140 kg)
-* Barbell bench press (1x6, 70 kg; 1x4, 80 kg; 3x2, 90 kg)
+* Barbell bench press (2x8, 70 kg; 3x6, 80 kg)
 * Triceps Push-ups (5x15)
