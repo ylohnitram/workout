@@ -9,7 +9,7 @@
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay Thai](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
-| *-* | *starting 15.9.* - [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 21:15) | *-* | *starting 15.9.* - [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 21:15) | *-* | *REST mode* | *REST mode* |
+| *-* | *starting 15.9.* - [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | *-* | *starting 15.9.* - [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
