@@ -17,7 +17,7 @@
 * #### hand plank
   klik v pozici nahore
 * #### bird dog x2 (pro kazdou stranu)
-  typka (Ondra) z Wing Chun nahrada za cvik za plank :D
+  holubicka na ctyrech, zvedam jednu ruku a jednu nohu zaroven
 * #### glute bridge
   vypad panvi v pozici nahore, dlane se dotykaji zeme
 * #### side elbow plank x2 (pro kazdou stranu)
