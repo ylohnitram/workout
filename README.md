@@ -1,13 +1,13 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |  **morning** |
+| **morning** | **morning** | **morning** | **morning** | **evening** | **morning** |  **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
 | 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
 | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
-| **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
+| **evening** | **evening** | **evening** | **evening** | | **evening** | **evening** |
 | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
 | *-* | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | *-* | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | *-* | *REST mode* | *REST mode* |
 
