@@ -1,6 +1,6 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **morning** | **morning** | **morning** | **morning** | **evening** | **morning** |  **morning** |
+| **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** |  **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
 | 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
