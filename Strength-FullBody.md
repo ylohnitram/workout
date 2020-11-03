@@ -2,7 +2,7 @@
 ## Normal
 * Barbell squats (7x8, 60 kg)
 * Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 1x1, 150 kg;
-                     2x3, 140 kg; 2x5, 130 kg)
+                     2x3, 140 kg; 3x5, 130 kg)
 * Barbell bench press (2x15, 50 kg; 3x10, 70 kg; 2x6, 80 kg)
 * Triceps Push-ups (6x15)
 
