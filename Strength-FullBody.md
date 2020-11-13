@@ -1,12 +1,28 @@
 # Full body
+## After injury
+### Casual
+* Barbell squats (7x8, 60 kg)
+* Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 2x1, 150 kg;
+                     2x3, 140 kg; 3x5, 130 kg)
+* Barbell bench press (2x15, 40 kg; 3x10, 50 kg; 2x6, 60 kg)
+* Triceps Push-ups (5x15)
+
+### Last training in week
+* Barbell squats (6x10, 65 kg)
+* Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 1x1, 150 kg; 1x1, 160 kg;
+                     2x1, 150 kg; 2x2, 140 kg; 3x3, 130 kg)
+* Barbell bench press (2x10, 50 kg; 3x3, 70 kg; 1x1, 80 kg)
+* Triceps Push-ups (5x15)
+
 ## Normal
+### Casual
 * Barbell squats (7x8, 60 kg)
 * Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 1x1, 150 kg;
                      2x3, 140 kg; 3x5, 130 kg)
 * Barbell bench press (2x15, 50 kg; 3x10, 70 kg; 2x6, 80 kg)
 * Triceps Push-ups (6x15)
 
-## Last training in week
+### Last training in week
 * Barbell squats (6x10, 65 kg)
 * Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 1x1, 150 kg; 1x1, 160 kg;
                      1x1, 150 kg; 2x1, 140 kg; 3x1, 130 kg)
