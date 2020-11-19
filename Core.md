@@ -1,4 +1,4 @@
-# Core training (3 rounds, 15 - 30 s each exercise, 3 min. rest)
+# Core training (3 - 4 rounds, 15 - 30 s each exercise, 3 min. rest)
 * #### hollow hold
   do ucka, ruce nahoru, nohy nahoru, spodni zada se dotykaji zeme, drzet pevne bricho
 * #### v-sit
@@ -28,4 +28,3 @@
   jako 2, ale ruce dam mezi paty
 
 Source: [QUIT DOING CRUNCHES | 15 Must-Do Isometric Core Exercises For a STRONG Six Pack](https://www.youtube.com/watch?v=oXH2aDh8F3s)
-
