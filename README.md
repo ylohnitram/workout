@@ -9,7 +9,7 @@
 | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | *-* | **evening** | **evening** |
 | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *REST mode* | *REST mode* |
-| SOME CARDIO | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | SOME CARDIO | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | *-* | *REST mode* | *REST mode* |
+| [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md) | *REST mode* | *REST mode* |
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
@@ -22,10 +22,9 @@
 # Cardio workout programs
 ## Active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
-
-## Inactive
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
+* [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md)
 
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
