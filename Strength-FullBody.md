@@ -1,9 +1,8 @@
 # Full body
-## Normal
 ### Casual
 * Barbell squats (7x8, 60 kg)
-* Barbell deadlifts (1x1, 130 kg; 1x1, 140 kg; 1x1, 150 kg;
-                     2x3, 140 kg; 3x5, 130 kg)
+* Barbell deadlifts (1x1, 140 kg; 1x1, 150 kg; 2x1, 160 kg;
+                     2x3, 150 kg; 3x5, 140 kg)
 * Barbell bench press (2x15, 50 kg; 3x10, 70 kg; 2x6, 80 kg)
 * Triceps Push-ups (6x15)
 
@@ -13,10 +12,3 @@
                      2x1, 160 kg; 2x2, 150 kg; 3x3, 140 kg)
 * Barbell bench press (2x10, 70 kg; 3x3, 90 kg; 1x1, 95 kg)
 * Triceps Push-ups (8x15)
-
-## After injury
-### Casual
-undefined
-
-### Last training in week
-undefined
