@@ -3,7 +3,7 @@
 * Barbell squats (7x8, 65 kg)
 * Barbell deadlifts (1x3, 140 kg; 2x2, 150 kg; 3x1, 160 kg)
 * OHP (2x6, 50 kg; 3x3, 60 kg)
-* Barbell bench press (2x15, 60 kg; 3x10, 80 kg; 2x6, 90 kg)
+* Barbell bench press (2x15, 60 kg; 3x10, 80 kg; 2x3, 90 kg)
 * Triceps Push-ups (6x15)
 
 ### Last training in week
