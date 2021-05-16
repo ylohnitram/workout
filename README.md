@@ -1,29 +1,38 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** |  **morning** |
+| **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
+| 5 min. jumping rope | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | 5 min. jumping rope | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | 5 min. jumping rope | *REST mode* | *REST mode* |
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
-| 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
-| [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
+| [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
-| [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
-| **evening** | **evening** | **evening** | **evening** | *-* | **evening** | **evening** |
-| [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[Muay-thai - Lanna](https://www.lannagym.cz/rozvrh/) (17:45 - 19:00) | *REST mode* | *REST mode* |
-| [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/)[BJJ - Choketopus](https://choketopusgym.cz/prazacka-3/) (19:30 - 20:45) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md) | *REST mode* | *REST mode* |
+| [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *REST mode* | *REST mode* |
+| **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
+| *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | *REST mode* | *REST mode* |
+| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | Upper body Dynamic stretching | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | Upper body Dynamic stretching | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
+| *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
+
+<hr />
+<b>Note</b>: Every 7th week replace any high intensity cardio with 2x CL except for running.
+<br /><b>Counter (cardio)</b>: week #7
+<hr />
 
 # Strength workout programs
 * [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
 
 # Core workout programs
-## Inactive
 * [CORE](https://github.com/mobsikx/workout/blob/master/Core.md)
 
 # Cardio workout programs
-## Active
+## active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
+* [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D)
+
+## in-active
+* [Cardio - Progressive Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-ProgressiveEndurance.md)
 * [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md)
 
 # Measurements
