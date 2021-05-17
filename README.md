@@ -6,7 +6,7 @@
 | Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
 | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
 | Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
-| [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *-* | [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md) | *REST mode* | *REST mode* |
+| 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | *REST mode* | *REST mode* |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | Upper body Dynamic stretching | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | Upper body Dynamic stretching | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
@@ -27,11 +27,11 @@
 # Cardio workout programs
 ## active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
-* [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
 * [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
 * [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D)
 
 ## in-active
+* [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
 * [Cardio - Progressive Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-ProgressiveEndurance.md)
 * [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md)
 
