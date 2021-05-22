@@ -7,7 +7,7 @@
 * Triceps Push-ups (4x15)
 
 ### Last training in week
-* Barbell squats (5x5, 75 kg)
+* Barbell squats (5x6, 75 kg)
 * Barbell deadlifts (2x5, 130 kg; 4x3, 140 kg; 2x2, 150 kg)
 * OHP (2x6, 50 kg; 3x3, 65 kg; 2x10, 40 kg)
 * Barbell bench press (2x10, 70 kg; 3x3, 85 kg; 1x1, 90 kg)
