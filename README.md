@@ -9,8 +9,6 @@
 | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | *REST mode* | *REST mode* |
-| *-* | Upper body Dynamic stretching | *-* | Upper body Dynamic stretching | *-* | *REST mode* | *REST mode* |
-| *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md) | *-* | *REST mode* | *REST mode* |
 | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 21:00) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 21:00) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md) | *REST mode* | *REST mode* |
 
 <hr />
@@ -19,7 +17,6 @@
 <hr />
 
 # Strength workout programs
-* [UpperBody](https://github.com/mobsikx/workout/blob/master/Strength-UpperBody.md)
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
 
 # Core workout programs
