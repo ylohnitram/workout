@@ -1,10 +1,2 @@
-## Shoulders, biceps, forearm
-* Lateral raise (5x12, 10 kg)
-* Bent over reverse [https://www.youtube.com/watch?v=QvKvJXyvato 03:00] (5x12, 10 kg)
-* Reverse dumbbell fly [https://www.youtube.com/watch?v=QvKvJXyvato 05:00] (5x12, 10 kg)
-* Leaning lateral raise [https://www.youtube.com/watch?v=QvKvJXyvato 06:09] (2x12, 10kg; 3x8 20 kg)
-* Overhead press (2x6, 40 kg; 3x3, 50 kg)
-* Biceps barbell (2x12, 20 kg; 3x8, 30 kg)
-* Biceps dumbbells (2x12, 10 kg; 3x8, 20 kg)
-* Forearm rolls (2x12, 10 kg; 3x8, 20 kg)
-* Palm pushes (3x200)
+## arms
+https://www.youtube.com/watch?v=6QgR6Tjle7g
