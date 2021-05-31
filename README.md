@@ -9,7 +9,7 @@
 | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) | *-* | *REST mode* | *REST mode* |
-| [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 20:45) | [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 20:45) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md) | *REST mode* | *REST mode* |
+| 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 20:45) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/bjj-trida/)[BJJ - Choketopus](https://choketopusgym.cz/bjj-trida/) (19:30 - 20:45) | [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md) | *REST mode* | *REST mode* |
 
 <hr />
 <b>Note</b>: Every 7th week replace any high intensity cardio with 2x CL except for running.
@@ -25,11 +25,11 @@
 # Cardio workout programs
 ## active
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
-* [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
-* [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md)
 * [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D)
+* [Cardio - MMA](https://github.com/mobsikx/workout/blob/master/Cardio-MMA.md)
 
 ## in-active
+* [Cardio - Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-Endurance.md)
 * [Cardio - Explosive](https://github.com/mobsikx/workout/blob/master/Cardio-Explosive.md)
 * [Cardio - Progressive Endurance](https://github.com/mobsikx/workout/blob/master/Cardio-ProgressiveEndurance.md)
 
