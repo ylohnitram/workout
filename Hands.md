@@ -1,5 +1,5 @@
 # Hands training
-(superset)
+*(superset)*
 ## biceps curl
 - 2x15, 10 kg (warm-up)
 - 3x8, 20 kg
@@ -15,7 +15,8 @@
 ## triceps dips
 - 2x15
 - 3x8 (3x upper rep.)
-(end of superset)
+
+*(end of superset)*
 
 ## forearm rolls
 - 2x15, 10 kg (warm-up)
