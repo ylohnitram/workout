@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
+| 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
 | Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | *REST mode* | *REST mode* |
 | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching - upper body | Static stretching | Static stretching - upper body | Static stretching | *REST mode* | *REST mode* |
