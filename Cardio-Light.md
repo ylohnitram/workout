@@ -1,3 +1,3 @@
-# Cardio training - Light (during fall/winter)
-## 1st block (lvl. 8, 100 - 130 bpm)
+# Cardio training - Light
+## 1st block (lvl. 8, 60 - 80 rpm)
 * 15 min.
