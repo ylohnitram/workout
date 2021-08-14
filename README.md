@@ -4,7 +4,7 @@
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
 | Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | *REST mode* | *REST mode* |
-| [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
+| [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | XXXX | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | XXX | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching - upper body | Static stretching | Static stretching - upper body | Static stretching | *REST mode* | *REST mode* |
 | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
@@ -15,7 +15,7 @@
 * [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md)
 
 # Pumping workout programs
-* [Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md)
+* -[Hands](https://github.com/mobsikx/workout/blob/summer/Hands.md)-
 
 # Cardio workout programs
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md)
