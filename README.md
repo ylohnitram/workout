@@ -2,10 +2,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| 5 min. jumping rope | *-* | 5 min. jumping rope | *-* | 5 min. jumping rope | *REST mode* | *REST mode* |
-| Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | Dynamic stretching - upper body | Dynamic stretching | *REST mode* | *REST mode* |
+| 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
+| Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | Dynamic stretching | *REST mode* | *REST mode* |
 | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Wrestling - Solo drills](https://github.com/mobsikx/workout/blob/summer/Wrestling-Solodrills.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Wrestling - Solo drills](https://github.com/mobsikx/workout/blob/summer/Wrestling-Solodrills.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
-| Static stretching | Static stretching - upper body | Static stretching | Static stretching - upper body | Static stretching | *REST mode* | *REST mode* |
+| Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *-* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) OR 2x [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | *-* | 2x [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D) OR 2x [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | *-* | *REST mode* | *REST mode* |
