@@ -8,7 +8,6 @@
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| *-* | *-* | *-* | *-* | *-* | *REST mode* | *REST mode* |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | *-* | *REST mode* | *REST mode* |
 
 # Strength workout programs
