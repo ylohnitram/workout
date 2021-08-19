@@ -1,12 +1,12 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
-| Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
-| Dynamic stretching | BJJ stretching | Dynamic stretching | BJJ stretching | Dynamic stretching | *REST mode* | *REST mode* |
-| [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Wrestling - Solo drills](https://github.com/mobsikx/workout/blob/summer/Wrestling-Solodrills.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | [Wrestling - Solo drills](https://github.com/mobsikx/workout/blob/summer/Wrestling-Solodrills.md) | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
-| Static stretching | *-* | Static stretching | *-*| Static stretching | *REST mode* | *REST mode* |
-| 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | 2x [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | 2x [Cardio - IoR](https://github.com/mobsikx/workout/blob/summer/Cardio-IoR.md) | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | *REST mode* |
+| Cold water hardening | *REST mode* | Cold water hardening | *REST mode* | Cold water hardening | *REST mode* | *REST mode* |
+| 5 min. jumping rope | *REST mode* | 5 min. jumping rope | *REST mode* | 5 min. jumping rope | *REST mode* | *REST mode* |
+| Dynamic stretching | *REST mode* | Dynamic stretching | *REST mode* | Dynamic stretching | *REST mode* | *REST mode* |
+| [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | [FullBody](https://github.com/mobsikx/workout/blob/summer/Strength-FullBody.md) | *REST mode* | *REST mode* |
+| Static stretching | *REST mode* | Static stretching | *REST mode* | Static stretching | *REST mode* | *REST mode* |
+| 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) |*REST mode* | 2x [Cardio - Light](https://github.com/mobsikx/workout/blob/summer/Cardio-Light.md) | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | *-* | *REST mode* | *REST mode* |
 
