@@ -1,7 +1,7 @@
 # Full body
 ### Mon
 * Barbell squats (2x8, 70 kg; 4x5, 95 kg)
-* Barbell bench press (2x10, 70 kg; 3x6, 80 kg; 2x2, 90 kg)
+* Barbell bench press (2x10, 70 kg; 1x5, 80 kg; 1x3, 85 kg; 1x1, 90 kg; 1x1, 95 kg; 1x1, 100 kg)
 * Barbell deadlifts (2x2, 120 kg; 2x2, 140 kg; 2x2, 150 kg)
 
 ### Wed
