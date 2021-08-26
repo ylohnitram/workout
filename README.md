@@ -13,12 +13,6 @@
 # Strength workout programs
 * [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
 
-# Wrestling workout program
-* [Wrestling - Solo drills](https://github.com/mobsikx/workout/blob/master/Wrestling-Solodrills.md)
-
-# Pumping workout programs
-* -[Hands](https://github.com/mobsikx/workout/blob/master/Hands.md)-
-
 # Cardio workout programs
 * [Cardio - Light](https://github.com/mobsikx/workout/blob/master/Cardio-Light.md)
 * [Cardio - Running](https://en.mapy.cz/zakladni?planovani-trasy&x=14.4191051&y=50.1060084&z=17&rc=9hCK4xYBXldyYh43DhfThiN3fZG&rs=pubt&rs=stre&rs=coor&rs=pubt&ri=15306131&ri=123022&ri=&ri=15305873&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D)
