@@ -2,10 +2,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| 5 min. jumping rope | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | 5 min. jumping rope | [![](./images/logo-lannagym-64x38.jpg)](https://www.lannagym.cz/)[BJJ - Lanna](https://www.lannagym.cz/rozvrh/) (07:30 - 09:00) | 5 min. jumping rope | *REST mode* | *REST mode* |
-| Dynamic stretching | *-* | Dynamic stretching | *-* | Dynamic stretching | *REST mode* | *REST mode* |
-| [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *-* | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
-| Static stretching | *-* | Static stretching | *-* | Static stretching | *REST mode* | *REST mode* |
+| 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
+| Dynamic stretching | Upper Dynamic stretching | Dynamic stretching | Upper Dynamic stretching | Dynamic stretching | *REST mode* | *REST mode* |
+| [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | BJJ GRIP | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | BJJ GRIP | [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md) | *REST mode* | *REST mode* |
+| Static stretching | Upper Static stretching | Static stretching | Upper Static stretching | Static stretching | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | *-* | *REST mode* | *REST mode* |
 
