@@ -10,6 +10,6 @@
 * Barbell deadlifts (1x3, 40 kg; 1x3, 80 kg; 1x3, 120 kg; 1x2, 160 kg; 1x1, 180 kg; 1x1, 190 kg)
 
 ### Fri
-* Barbell squats (2x5, 100 kg; 1x3, 130 kg; 1x2, 140 kg; 1x2, 150 kg; 1x1, 160 kg; 1x1, 180 kg)
+* Barbell squats (2x5, 100 kg; 1x3, 130 kg; 1x2, 140 kg; 1x2, 160 kg; 1x1, 180 kg; 1x1, 200 kg)
 * Barbell bench press (2x10, 60 kg; 4x5, 70 kg)
 * Barbell deadlifts (1x5, 40 kg; 1x5, 80 kg; 2x5, 120 kg; 2x3, 160 kg)
