@@ -3,7 +3,7 @@
 | **morning** | **morning** | **morning** | **morning** | **after lunch** | **morning** | **morning** |
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
-| Dynamic stretching | Upper Dynamic stretching | Dynamic stretching | Upper Dynamic stretching | Dynamic stretching | *REST mode* | *REST mode* |
+| Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
 | [Push](https://github.com/mobsikx/workout/blob/master/Push.md) | [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md) | [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md) | [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md) | [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md) | *REST mode* | *REST mode* |
 | Static stretching | Upper Static stretching | Static stretching | Upper Static stretching | Static stretching | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
