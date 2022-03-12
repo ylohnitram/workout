@@ -9,8 +9,11 @@
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | *-* | *REST mode* | *REST mode* |
 
-# Strength workout programs
-* [FullBody](https://github.com/mobsikx/workout/blob/master/Strength-FullBody.md)
+# Workout programs
+* [Push](https://github.com/mobsikx/workout/blob/master/Push.md)
+* [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md)
+* [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md)
+* [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md)
 
 # Cardio workout programs
 ### inactive (***due to high ammount of bjj trainings***)
