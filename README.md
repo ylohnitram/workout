@@ -4,7 +4,7 @@
 | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
 | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [Push](https://github.com/mobsikx/workout/blob/master/Push.md) | [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md) | [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md) | [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md) | [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md) | *REST mode* | *REST mode* |
+| [Push](https://github.com/mobsikx/workout/blob/master/Push.md) | [Lower body](https://github.com/mobsikx/workout/blob/master/Lower.md) | [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md) | [Upper body](https://github.com/mobsikx/workout/blob/master/Upper.md) | [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md) | *REST mode* | *REST mode* |
 | Static stretching | Upper Static stretching | Static stretching | Upper Static stretching | Static stretching | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | *-* | *REST mode* | *REST mode* |
@@ -13,7 +13,8 @@
 * [Push](https://github.com/mobsikx/workout/blob/master/Push.md)
 * [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md)
 * [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md)
-* [Full body](https://github.com/mobsikx/workout/blob/master/FullBody.md)
+* [Lower body](https://github.com/mobsikx/workout/blob/master/Lower.md)
+* [Upper body](https://github.com/mobsikx/workout/blob/master/Upper.md)
 
 # Cardio workout programs
 ### inactive (***due to high ammount of bjj trainings***)
