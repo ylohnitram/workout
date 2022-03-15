@@ -1,6 +1,6 @@
 # Lower
-* Squat (5x5)
-* Deadlift (3x6-8)
-* Lunges (4x8)
-* Hamstring curls (4x6-8)
-* Calf raise (4x8-10)
+* Squat (5x 5)
+* Deadlift (3x 6-8)
+* Bulgarian split squat (4x 8)
+* Hamstring curls (4x 6-8)
+* Calf raise (4x 8-10)
