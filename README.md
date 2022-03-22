@@ -1,8 +1,8 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
-| Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | Cold water hardening | *REST mode* | *REST mode* |
-| 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | 5 min. jumping rope | *REST mode* | *REST mode* |
+| Cold water hardening | *-* | Cold water hardening | *-* | Cold water hardening | *REST mode* | *REST mode* |
+| 5 min. warmup | 5 min. warmup | 5 min. warmup | 5 min. warmup | 5 min. warmup | *REST mode* | *REST mode* |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
 | [Upper Strength](https://github.com/mobsikx/workout/blob/master/Upper.md) | [Lower Strength](https://github.com/mobsikx/workout/blob/master/Lower.md) | [Push](https://github.com/mobsikx/workout/blob/master/Push.md) | [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md)| [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
