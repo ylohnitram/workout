@@ -1,5 +1,5 @@
 # Pull
-* Lateral pulldown (3x 10-12)
+* Lateral pulldown (3x 10-12, 45 kg)
 * Barbell curl (3x 10-12, 20 kg)
 * Cable row (3x 12-15)
 * Hammer curl (3x 12-15, 10-12 kg)
