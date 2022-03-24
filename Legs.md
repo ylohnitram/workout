@@ -1,5 +1,5 @@
 # Legs
-* Barbell back-squat (4x10-12, 80)
+* Barbell back-squat (4x10-12, 80 kg)
 * Barbell front-squat (4x10-12)
 * Hip thrust (3x 12-15)
 * Hamstring curl (3x 12-15)
