@@ -3,5 +3,5 @@
 * Barbell curl (3x 10-12, 30 kg)
 * Cable row (3x 12-15, 40 kg)
 * Hammer curl (3x 12-15, 10-12 kg)
-* Dead-lift (3x 8-10, 120 kg)
-* T-Bar rows (3x 12-15, 35 kg plates)
+* Dead-lift (3x 8-10, 130 kg)
+* T-Bar rows (3x 12-15, 40 kg plates)
