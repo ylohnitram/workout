@@ -3,6 +3,6 @@
 * Incline bench press (3x 10-12, 70 kg)
 * DB shoulder press (4x 10-12, 22 kg)
 * Skullcrushes (3x 10-12, 30 kg)
-* DB fly (3x 12-15, 16 kg)
-* DB lateral raise (3x 12-15, 10 kg)
+* DB fly (3x 12-15, 18 kg)
+* DB lateral raise (3x 12-15, 12 kg)
 * Triceps pushdown (3x 12-15, 40 kg)
