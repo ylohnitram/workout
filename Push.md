@@ -5,4 +5,4 @@
 * Skullcrushes (3x 10-12, 30 kg)
 * DB fly (3x 12-15, 16 kg)
 * DB lateral raise (3x 12-15, 10 kg)
-* Triceps pushdown (3x 12-15, 35 kg)
+* Triceps pushdown (3x 12-15, 40 kg)
