@@ -4,4 +4,4 @@
 * Hip thrust (3x (10 + 2x 5), 15 kg)
 * Hamstring curl (3x 12-15, 65 kg)
 * Leg press (4x 10-12, 200||250 kg plates {4||5x 25})
-* Calf raises (4x 15-20, 85 kg)
+* Calf raises (4x 15-20, 95 kg)
