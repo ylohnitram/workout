@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [Upper Strength](https://github.com/mobsikx/workout/blob/master/Upper.md) | [Lower Strength](https://github.com/mobsikx/workout/blob/master/Lower.md) | [Push](https://github.com/mobsikx/workout/blob/master/Push.md) | [Pull](https://github.com/mobsikx/workout/blob/master/Pull.md)| [Legs](https://github.com/mobsikx/workout/blob/master/Legs.md) | *REST mode* | *REST mode* |
+| [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/xxx.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT-B1-W1-D1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/xxx.md) | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/xxx.md)| [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT-B1-W1-D1.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | 150 kCal cardio | 150 kCal cardio | 150 kCal cardio | 150 kCal cardio | 150 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
