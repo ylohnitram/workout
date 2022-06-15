@@ -1,5 +1,5 @@
 # BeNCHPResS
-* benchpress (1x, 75 % = 97.5 kg, rir: 1-2)
+* benchpress (1x, 75 % = 100 kg, rir: 1-2)
 * lat. pulldown (3x, 50 kg, rir: 1-2)
 * cable flyes (3x, 30 kg, rir: 0-1)
 * seated row (3x, 50 kg, rir: 1-2)
