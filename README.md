@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W1-D1.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W1-D1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT/DEADLiFT-B4-W1.md) | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W1-D2.md)| [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W1-D2.md) | *REST mode* | *REST mode* |
+| [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W2-D1.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W2-D1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT/DEADLiFT-B4-W2.md) | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W2-D2.md)| [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W2-D2.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
