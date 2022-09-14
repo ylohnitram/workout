@@ -4,7 +4,7 @@
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
 | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W2-D1.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W2-D1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT/DEADLiFT-B4-W2.md) | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W2-D2.md)| [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W2-D2.md) | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
-| 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
+| **-** | **-** | **-** | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | *-* | *-* | *REST mode* | *REST mode* |
 
