@@ -2,13 +2,14 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W4-D1.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W4-D1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT/DEADLiFT-B4-W4.md) | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS/BeNCHPResS-B4-W4-D2.md)| [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT/SQuAT-B4-W4-D2.md) | *REST mode* | *REST mode* |
+| [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W1.md) | DEADLiFT | *REST mode* | BeNCHPResS | SQuAT | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | **-** | **-** | **-** | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
 | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | *-* | *-* | *REST mode* | *REST mode* |
 
 # Workout programs
+* [5-3-1](https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/)
 * [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS)
 * [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT)
 * [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT)
@@ -20,3 +21,4 @@
 * Bench: 135 kg (29.09.2022)
 * Squat: 180 kg (30.09.2022)
 * Deadlift: 220 kg (28.09.2022)
+* Shoulderpress: ? kg (??.??.????)
