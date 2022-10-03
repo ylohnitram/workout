@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W1.md) | [DEADLiFT]((https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W1.md)) | *REST mode* | BeNCHPResS | SQuAT | *REST mode* | *REST mode* |
+| [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W1.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W1.md) | *REST mode* | BeNCHPResS | SQuAT | *REST mode* | *REST mode* |
 | Static stretching | Static stretching | Static stretching | Static stretching | Static stretching | *REST mode* | *REST mode* |
 | **-** | **-** | **-** | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
