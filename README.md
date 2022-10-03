@@ -21,4 +21,4 @@
 * Bench: 135 kg (29.09.2022)
 * Squat: 180 kg (30.09.2022)
 * Deadlift: 220 kg (28.09.2022)
-* Shoulderpress: ? kg (??.??.????)
+* Shoulderpress: 95 kg (01.10.2022)
