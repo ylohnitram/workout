@@ -17,8 +17,15 @@
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
 
-# Max 1 rep
+# 1RM
+## Achieved
 * Bench: 135 kg (29.09.2022)
 * Squat: 180 kg (30.09.2022)
 * Deadlift: 220 kg (28.09.2022)
 * Shoulderpress: 95 kg (03.10.2022)
+
+## Calculated (5/3/1)
+* Bench: 135 kg
+* Squat: 180 kg
+* Deadlift: 220 kg
+* Shoulderpress: 95 kg
