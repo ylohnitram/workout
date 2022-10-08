@@ -10,9 +10,7 @@
 
 # Workout programs
 * [5-3-1](https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/)
-* [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/BeNCHPResS)
-* [SQuAT](https://github.com/mobsikx/workout/blob/master/SQuAT)
-* [DEADLiFT](https://github.com/mobsikx/workout/blob/master/DEADLiFT)
+* [custom](https://github.com/mobsikx/workout/blob/master/custom-prog/)
 
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
