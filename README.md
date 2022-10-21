@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
 | Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
-| [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W3.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W3.md) | *REST mode* | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/5-3-1/BeNCHPResS/BeNCHPResS-W3.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/5-3-1/SQuAT/SQuAT-W3.md) | *REST mode* | *REST mode* |
+| [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W4.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W4.md) | *REST mode* | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/5-3-1/BeNCHPResS/BeNCHPResS-W4.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/5-3-1/SQuAT/SQuAT-W4.md) | *REST mode* | *REST mode* |
 | [Strength stretching](https://www.youtube.com/watch?v=MNdmE8TCb8w) | [Strength stretching](https://www.youtube.com/watch?v=MNdmE8TCb8w) | *REST mode*| [Strength stretching](https://www.youtube.com/watch?v=MNdmE8TCb8w) | [Strength stretching](https://www.youtube.com/watch?v=MNdmE8TCb8w) | *REST mode* | *REST mode* |
 | *-* | *-* | *REST mode* | 200 kCal cardio | 200 kCal cardio | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
