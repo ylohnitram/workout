@@ -1,7 +1,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
-| Expander stretching | Expander stretching | Expander stretching | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
+| Expander stretching | Expander stretching | *REST mode* | Expander stretching | Expander stretching | *REST mode* | *REST mode* |
 | [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W2.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W2.md) | *REST mode* | [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/5-3-1/BeNCHPResS/BeNCHPResS-W2.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/5-3-1/SQuAT/SQuAT-W2.md) | *REST mode* | *REST mode* |
 | Static stretch - upper | Static stretch - lower | *REST mode*| Static stretch - upper | Static stretch - lower | *REST mode* | *REST mode* |
 | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
