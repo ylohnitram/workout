@@ -25,4 +25,4 @@
 * Bench: 140 kg
 * Squat: 185 kg
 * Deadlift: 230 kg
-* Shoulderpress: 97.5 kg
+* Shoulderpress: 100 kg
