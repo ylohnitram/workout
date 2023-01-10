@@ -24,5 +24,5 @@
 ## Calculated (5/3/1)
 * Bench: 142.5 kg
 * Squat: 195 kg
-* Deadlift: 235 kg
+* Deadlift: 230 kg
 * Shoulderpress: 102.5 kg
