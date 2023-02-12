@@ -22,7 +22,7 @@
 * Shoulderpress: 95 kg (03.10.2022)
 
 ## Calculated (5/3/1)
-* Bench: 145 kg
+* Bench: 150 kg
 * Squat: 200 kg
 * Deadlift: 235 kg;; ON_HOLD
 * Shoulderpress: 105 kg
