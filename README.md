@@ -25,4 +25,4 @@
 * Bench: 147.5 kg;; ON_HOLD
 * Squat: 200 kg
 * Deadlift: 235 kg;; ON_HOLD
-* Shoulderpress: 105 kg
+* Shoulderpress: 107.5 kg
