@@ -1,15 +1,37 @@
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **morning** | **morning** | **morning** | **morning** | **morning** | **morning** | **morning** |
-| Warm-up | Warm-up | *REST mode* | Warm-up | Warm-up | *REST mode* | *REST mode* |
-| [BeNCHPResS](https://github.com/mobsikx/workout/blob/master/5-3-1/BeNCHPResS/BeNCHPResS-W2.md) | [DEADLiFT](https://github.com/mobsikx/workout/blob/master/5-3-1/DEADLiFT/DEADLiFT-W2.md) | *REST mode* | [SHoulDERprESS](https://github.com/mobsikx/workout/blob/master/5-3-1/SHoulDERprESS/SHoulDERprESS-W2.md) | [SQuAT](https://github.com/mobsikx/workout/blob/master/5-3-1/SQuAT/SQuAT-W2.md) | *REST mode* | *REST mode* |
-| Static stretch - upper | Static stretch - lower | *REST mode*| Static stretch - upper | Static stretch - lower | *REST mode* | *REST mode* |
-| **evening** | **evening** | **evening** | **evening** | **evening** | **evening** | **evening** |
-| [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (18:15 - 19:30) | [![](./images/logo-choketopusgym-64x64.jpg)](https://choketopusgym.cz/rozvrh/prazacka/)[BJJ no-GI - Choketopus](https://choketopusgym.cz/rozvrh/prazacka/) (17:30 - 18:45) | *-* | *-* | *REST mode* | *REST mode* |
+| Mon | Wed | Fri |
+| Squat [SQ Light] | Squat [SQ Medium] | Squat [SQ Heavy] |
+| Bench [BE Heavy] | Bench [BE Light] | Bench [BE Medium] |
+| Deadlift [DE Light] | Deadlift [DE Heavy] | Deadlift [DE Medium] |
+| OHP [OHP Light] | OHP [OHP Medium] | - |
+| biceps [Heavy] | [triceps [Heavy] | - |
+| - | - | sledge [Heavy] |
+| - | - | trenches [Heavy] |
+| - | - | core [Light] | 
 
 # Workout programs
 * [5-3-1](https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/)
 * [custom](https://github.com/mobsikx/workout/blob/master/custom-prog/)
+
+# Intensity
+## SQ
+- Heavy: 3x3; ~~170~~, 175, 180, 185, 190
+- Medium: 4x5; 160
+- Light: 5x5; 150 
+
+## BE
+- Heavy: 3x1; 120, 105 (incline)
+- Medium: 3x3; 110, 95 (incline)
+- Light: 5x5; 100, 90 (incline)
+
+## DE
+- Heavy: 3x2; ~~200~~, 200, 200, 200, 210
+- Medium: 4x3; ~~180~~, 185, 190, 195, 200
+- Light: 5x5; ~~170~~, 170, 170, 180, 180
+
+## OHP
+- Heavy: 1x1; 80
+- Medium: 3x3; 70
+- Light: 5x5; 60
 
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
