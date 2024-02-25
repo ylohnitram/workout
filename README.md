@@ -1,4 +1,4 @@
-| Mon | Wed | Fri |
+|| Mon | Wed | Fri ||
 | Squat [SQ Light] | Squat [SQ Medium] | Squat [SQ Heavy] |
 | Bench [BE Heavy] | Bench [BE Light] | Bench [BE Medium] |
 | Deadlift [DE Light] | Deadlift [DE Heavy] | Deadlift [DE Medium] |
