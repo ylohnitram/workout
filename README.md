@@ -20,14 +20,14 @@
 - Light: 5x5; 150 
 
 ## BE
-- Heavy: 3x1; 120, 105 (incline)
-- Medium: 3x3; 110, 95 (incline)
-- Light: 5x5; 100, 90 (incline)
+- Heavy: 3x1; 120, - (incline)
+- Medium: 3x1-3; 110, - (incline)
+- Light: 5x3-5; 100, 90 (incline)
 
 ## DE
 - Heavy: 3x2; ~~200~~, 200, 200, 200, 210
 - Medium: 4x3; ~~180~~, 185, 190, 195, 200
-- Light: 5x2-5; ~~170~~, 170, 170, 180, 180
+- Light: 5x5; ~~170~~, 170, 170, 180, 180
 
 ## OHP
 - Heavy: 1x1; 80
