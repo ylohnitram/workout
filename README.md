@@ -1,7 +1,7 @@
 | Mon | Wed | Fri |
 |-----------|-----------|-----------|
 | Squat [SQ Light] | Squat [SQ Medium] | Squat [SQ Heavy] |
-| Bench [BE Heavy] | Bench [BE Light] | Bench [BE Medium] |
+| Bench [BE Light] | Bench [BE Light] | Bench [BE Light] |
 | Deadlift [DE Medium] | Deadlift [DE Heavy] | Deadlift [DE Light] |
 | OHP [OHP Light] | OHP [OHP Medium] | - |
 | biceps [Heavy] | [triceps [Heavy] | - |
@@ -27,7 +27,7 @@
 ## DE
 - Heavy: 3x2; ~~200~~, 200, 200, 200, 210
 - Medium: 4x3; ~~180~~, 185, 190, 195, 200
-- Light: 5x5; ~~170~~, 170, 170, 180, 180
+- Light: 5x2-5; ~~170~~, 170, 170, 180, 180
 
 ## OHP
 - Heavy: 1x1; 80
