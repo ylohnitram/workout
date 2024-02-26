@@ -16,7 +16,7 @@
 # Intensity
 ## SQ
 - Heavy: 3x3; ~~170~~, 175, 180, 185, 190
-- Medium: 4x5; 160
+- Medium: 4x4; 160
 - Light: 5x5; 150 
 
 ## BE
