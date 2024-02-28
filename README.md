@@ -4,7 +4,8 @@
 | Bench [BE Light] | Bench [BE Light] | Bench [BE Light] |
 | Deadlift [DE Medium] | Deadlift [DE Heavy] | Deadlift [DE Light] |
 | OHP [OHP Light] | OHP [OHP Medium] | - |
-| biceps [Heavy] | [triceps [Heavy] | - |
+| biceps [Heavy] | biceps [Heavy] | - |
+| triceps [Heavy] | triceps [Heavy] | - |
 | - | - | sledge [Heavy] |
 | - | - | trenches [Heavy] |
 | - | - | core [Light] | 
