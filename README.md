@@ -35,6 +35,11 @@
 - Medium: 3x3; 70
 - Light: 5x5; 60
 
+## Sledge
+- Heavy: 3x; 225 + sane
+- Medium: 4; 175 + sane
+- Light: 5; 125 + sane
+
 # Measurements
 * [Monthly](https://onedrive.live.com/edit.aspx?resid=201A2B187B4F6840!127&app=Excel&wdnd=1&wdPreviousSession=d4c29844%2D4119%2D400d%2Da5bd%2D41ce04693cb3)
 
