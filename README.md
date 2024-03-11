@@ -23,7 +23,7 @@
 ## BE
 - Heavy: 3x1; 120, - (incline)
 - Medium: 4x2-4; 110, - (incline)
-- Light: 5x3-5; 100, 90 (incline)
+- Light: 5x5; 100, 90 (incline)
 
 ## DE
 - Heavy: 3x1-3; ~~200~~, ~~200~~, ~~200~~, 200, 205, 210, 215 
