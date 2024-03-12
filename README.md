@@ -3,7 +3,7 @@
 | Squat [SQ Light] | Squat [SQ Medium] | Squat [SQ Heavy] |
 | Bench [BE Light] | Bench [BE Light] | Bench [BE Medium] |
 | Deadlift [DE Medium] | Deadlift [DE Heavy] | Deadlift [DE Light] |
-| OHP [OHP Light] | OHP [OHP Medium] | - |
+| OHP [OHP Heavy] | OHP [OHP Medium] | - |
 | biceps [Heavy] | biceps [Heavy] | - |
 | triceps [Heavy] | triceps [Heavy] | - |
 | - | - | sledge [Heavy] |
