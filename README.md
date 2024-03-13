@@ -1,7 +1,7 @@
 | Mon | Wed | Fri |
 |-----------|-----------|-----------|
 | Squat [SQ Light] | Squat [SQ Medium] | Squat [SQ Heavy] |
-| Bench [BE Light] | Bench [BE Light] | Bench [BE Medium] |
+| Bench [BE Light] | Bench [BE Medium] | Bench [BE Medium] |
 | Deadlift [DE Medium] | Deadlift [DE Heavy] | Deadlift [DE Light] |
 | OHP [OHP Heavy] | OHP [OHP Medium] | - |
 | biceps [Heavy] | biceps [Heavy] | - |
